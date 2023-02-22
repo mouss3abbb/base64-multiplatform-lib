@@ -1,0 +1,20 @@
+{
+  "version": "9",
+  "items": {
+    "f447c0c56abf53f21fcbcf9971d40c5f": {
+      "src": "/home/panda/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.0/f7197e7cc76453ac59f8b0f8d5137cc600becd36/kotlin-stdlib-common-1.8.0.jar"
+    },
+    "1ac085e2f277a9a2ed0382b398248c53": {
+      "src": "/home/panda/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.8.0/b4f77e5ecd9c56fc312d90cb0ab919ee452dfb4/kotlin-test-js-runner-1.8.0.jar",
+      "target": "kotlin-test-js-runner/1.8.0"
+    },
+    "9a9ac65ef95054b26ff40b74df6af625": {
+      "src": "/home/panda/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.8.0/b4f5f83089cbb70f0b6d81ecffbf3cbf13f4a8b9/kotlin-stdlib-js-1.8.0.jar",
+      "target": "kotlin/1.8.0"
+    },
+    "0a62abb6cf08e01efcae03737e0423a2": {
+      "src": "/home/panda/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.8.0/3af4dadff9462ba38f857b60a1352d5fec65d100/kotlin-test-js-1.8.0.jar",
+      "target": "kotlin-test/1.8.0"
+    }
+  }
+}
